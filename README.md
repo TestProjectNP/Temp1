@@ -1,4 +1,4 @@
 # Temp1
 It is temp repository
-Plagin version 1.1.0
+Plugin version 1.1.0
  

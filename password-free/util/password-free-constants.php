@@ -16,11 +16,7 @@ const PASSWORD_FREE_VERSION = '1.1.0';
 const PASSWORD_FREE_SCHEDULE = 'password_free_schedule';
 
 //NoPass url
-//const PASSWORD_FREE_ENV = 'http://localhost:8080';
-//const PASSWORD_FREE_ENV = 'https://wp-integration-devns.identite.us';
-//const PASSWORD_FREE_ENV = 'https://wp-integration-dev01.identite.us';
-const PASSWORD_FREE_ENV = 'https://wp-integration-qa01.identite.us';
-//const PASSWORD_FREE_ENV = 'https://wordpress.nopass.us';
+const PASSWORD_FREE_ENV = 'https://wordpress.nopass.us';
 
 //outer endpoints
 const PASSWORD_FREE_OUTER_ROTE = 'wp-no-pass/api';
